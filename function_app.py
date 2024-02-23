@@ -9,7 +9,7 @@ from openai import OpenAI
 
 
 aiClient = OpenAI(
-    api_key="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",
+    api_key="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",
     organization="org-xXEIzn6NYiho80LJJUG2sI2l"
 )
 client = pymongo.MongoClient("mongodb://azure-backend-me:wC809DyYS0SH3H9lWXqYOJwvLWxjF14t1Jql1Jk4lMfsbOnD1Ybx19JjfZK4tclzscJbU354ehoWACDbLL0KKg==@azure-backend-me.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@azure-backend-me@")
